@@ -48,7 +48,7 @@ pandas و numpy و scikit-learn
 
 - [Machine Learning](ل[ینک به پوشه](https://github.com/abolfazlmehdizadeh/resume-projects/tree/main/Machine%20Learning))
 - [Image Processing]([لینک به پوشه](https://github.com/abolfazlmehdizadeh/resume-projects/tree/main/Image%20Processing))
-- [Django Projects]([لینک وبسایت](https://neomenu.ir/))
+- [Django Projects]
 
 ---
 
