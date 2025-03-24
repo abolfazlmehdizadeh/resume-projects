@@ -49,9 +49,11 @@ pandas و numpy و scikit-learn
 ## نمونه‌کارها
 نمونه‌کارهای مرتبط با هر بخش در پوشه‌های زیر قرار دارند:
 
-- [Machine Learning](ل[ینک به پوشه](https://github.com/abolfazlmehdizadeh/resume-projects/tree/main/Machine%20Learning))
+- [Machine Learning]([ینک به پوشه](https://github.com/abolfazlmehdizadeh/resume-projects/tree/main/Machine%20Learning))
 - [Image Processing]([لینک به پوشه](https://github.com/abolfazlmehdizadeh/resume-projects/tree/main/Image%20Processing))
-- [Django Projects]
+- [Front :next js, typescript, react, tailwind| Back :Django]([لینک پلتفرم منو انلاین](https://menu.neosaz.ir))
+- [Fenu Online neo]([لینک منو ساخته شده با پلتفرم بالا](https://menu.neosaz.ir/menu/neo))
+- [Front :alpinejs | Back: Django]([لینک وبسایت اموزشی](https://learn.neosaz.ir))
 
 ---
 
